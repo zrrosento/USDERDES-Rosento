@@ -41,7 +41,7 @@
 	</ul>
 	<div class="carousel-inner">
 		<div class="carousel-item active">
-			<img src="background1.png" alt="image of first slider">
+			<img src="background2.png" alt="image of first slider">
 			<div class="carousel-caption">
 				<h1 class="display-2">User Design Website</h1>
 				<p class="h3 subtitle">My Personal Website</p>
@@ -51,7 +51,7 @@
 			<img src="makati.jpg" alt="image of second slider">
 		</div>
 		<div class="carousel-item">
-			<img src="background2.png" alt="image of third slider">
+			<img src="background1.png" alt="image of third slider">
 		</div>
 	</div>
 </div>
