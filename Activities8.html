@@ -59,7 +59,7 @@
                 <img src="A8_3.jpg" alt="Bootstrap" class="img-fluid">
                 
 					<a href="activities7.php" class="btn btn-primary">Previous Page</a>
-					<a href="Activities9.php" class="btn btn-primary">Next Page</a>
+					<a href="activities9.php" class="btn btn-primary">Next Page</a>
 			</div>
 			<div class="col-lg-6">
                 <h2> </h2>
