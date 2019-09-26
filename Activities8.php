@@ -27,6 +27,7 @@
 				<li class="nav-item"><a href="activities.php" class="nav-link">Activities</a></li>
 				<li class="nav-item"><a href="reflections.php" class="nav-link">Reflections</a></li>
 				<li class="nav-item"><a href="quizzes.php" class="nav-link">Quizzes</a></li>
+				<li class="nav-item"><a href="certificates.php" class="nav-link">Certificates</a></li>
 				<li class="nav-item"><a href="https://www.apc.edu.ph" class="nav-link">About Us</a></li>
 			</ul>
 		</div>
@@ -58,7 +59,7 @@
                 <img src="A8_3.jpg" alt="Bootstrap" class="img-fluid">
                 
 					<a href="activities7.php" class="btn btn-primary">Previous Page</a>
-					<a href="activities9.php" class="btn btn-primary">Next Page</a>
+					<a href="Activities9.php" class="btn btn-primary">Next Page</a>
 			</div>
 			<div class="col-lg-6">
                 <h2> </h2>

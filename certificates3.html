@@ -78,7 +78,7 @@
 			<a href="index.php" class="btn btn-primary">Home</a>
 		</div>
 		<div class="col-lg-6">
-				<img src="cert3.JPG" alt="Bootstrap" class="img-fluid">
+				<img src="cert3.jpg" alt="Bootstrap" class="img-fluid">
 			</div>		
 	</div>
 </div>
