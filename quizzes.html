@@ -41,8 +41,6 @@
 			<div class="carousel-caption">
 				<h1 class="display-2">Quiz</h1>
 				<p class="h3 subtitle">Q1</p>
-				<button type="button" class="btn btn-outline-light btn-lg" ></a>View All Activiies</button>
-				<button type="button" class="btn btn-primary btn-lg">Back Home</button>
 			</div>
 		</div>
 	</div>

@@ -13,7 +13,6 @@
 </head>
 <body>
 
-
 <!-- Navigation -->
 <nav class="navbar navbar-expand-md navbar-light bg-light sticky-top">
 	<div class="container-fluid">
@@ -27,6 +26,7 @@
 				<li class="nav-item"><a href="activities.php" class="nav-link">Activities</a></li>
 				<li class="nav-item"><a href="reflections.php" class="nav-link">Reflections</a></li>
 				<li class="nav-item"><a href="quizzes.php" class="nav-link">Quizzes</a></li>
+				<li class="nav-item"><a href="certificates.php" class="nav-link">Certificates</a></li>
 				<li class="nav-item"><a href="https://www.apc.edu.ph" class="nav-link">About Us</a></li>
 			</ul>
 		</div>
@@ -39,9 +39,8 @@
 		<div class="carousel-item active">
 			<img src="background_act.jpg" alt="image of first slider">
 			<div class="carousel-caption">
-				<h1 class="display-2">Activities</h1>
-				<p class="h3 subtitle">A1-A9</p>
-
+				<h1 class="display-2">Certificates</h1>
+				<p class="h3 subtitle">C1-C3</p>
 			</div>
 		</div>
 	</div>
@@ -49,20 +48,29 @@
 
 <!--- Two Column Section -->
 <div class="container-fluid padding">
-		<div class="row padding">
-			<div class="col-lg-6">
-				<h2>Activity 3: 1000 Floor Elevator</h2>
-				<p>If I would have a chance to design an elevator that has a thousand floors. I will design the elevator in not in a usual single way type of elevator. The elevator would only be available in every 1-50 floor then you’ll have to get out of the elevator and go to another one. This way it might have been a little inconvenient. But it will secure the people inside of the building’s safety. Also, the elevator would only allow the people to go inside when someone can access it using communicator. Communicator is the way I think it would solve the usage of elevator and minimize it for the public use if the building that were referring to is private. The communicator is like a tablet that’s only been given to the employees of the building. This communicator has stored all the data of the employees of the building and every employee has different kind of level depending on their position on where they could only go. Saying the employee is just a regular type 1 that means they could only access the part of the building that is only allowed for the regular employees. But they could also go to other level if someone with the higher position on the allowed them and gives them the access to go inside of other level security rooms. The communicator will also be the one who’s going to be the button for the people whenever they have to go somewhere. The floor will glow up depending on where they should be and if they have to go somewhere even if they don’t have given the permission to, they could still use the communicator to the elevator but the only floors they could access is the ones they were only allowed to do so. In order for the employees know whether it’s already connected to the elevator is that there would be a logo that will glow whenever someone’s communicator went inside the elevator.  </p>
-			   
-					<a href="activities2.php" class="btn btn-primary">Previous Page</a>
-					<a href="activities4.php" class="btn btn-primary">Next Page</a>
-			</div>
-			<div class="col-lg-6">
-				<img src="bolt.jpg" alt="Bootstrap" class="img-fluid">
-			</div>		
+	<div class="row padding">
+		<div class="col-lg-6">
+			<h2>Certificate 2: Interaction Design for the Web</h2>
+			<p><style> p {text-indent:50px;t}</style>While user behavior may often seem random, there are psychological reasons behind the choices individuals make as they navigate a user interface. In this course, learn about the psychological reasons why good UI design works, so that you can build websites and apps that work the way your users think. Instructor Chris Nodder helps you get started by discussing how brains work, and how to design around the limitations of the human brain. He also explains how to use perception principles to enhance the flow of your UI; leverage physical concepts to create a more intuitive UI; and smooth out your workflow. To wrap up the course, he explains how to fix small annoyances and make your interface pleasant to use.</p>
+            <p><b>Learning Objectives:</b></p>
+            <p>-Designing around human limitations</p>
+            <p>-Telling stories</p>
+            <p>-How we group the things we see          </p>
+            <p>-Making standard and consistent interfaces</p>
+            <p>-Smart defaults</p>
+            <p>-Reducing system latency and communicating during delays</p>
+            <p>-Making error messages into useful dialogs</p>
+            <p>-Designing for delight</p>
+			<br>
+			<a href="certificates.php" class="btn btn-primary">Previous Page</a>
+			<a href="certificates3.php" class="btn btn-primary">Next Page</a>
 		</div>
+		<div class="col-lg-6">
+				<img src="cert2.jpg" alt="Bootstrap" class="img-fluid">
+			</div>		
 	</div>
-	
+</div>
+
 <hr class="my-4">
   
 <!--- Outputs -->

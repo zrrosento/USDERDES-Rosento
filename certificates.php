@@ -13,7 +13,6 @@
 </head>
 <body>
 
-
 <!-- Navigation -->
 <nav class="navbar navbar-expand-md navbar-light bg-light sticky-top">
 	<div class="container-fluid">
@@ -27,6 +26,7 @@
 				<li class="nav-item"><a href="activities.php" class="nav-link">Activities</a></li>
 				<li class="nav-item"><a href="reflections.php" class="nav-link">Reflections</a></li>
 				<li class="nav-item"><a href="quizzes.php" class="nav-link">Quizzes</a></li>
+				<li class="nav-item"><a href="certificates.php" class="nav-link">Certificates</a></li>
 				<li class="nav-item"><a href="https://www.apc.edu.ph" class="nav-link">About Us</a></li>
 			</ul>
 		</div>
@@ -39,9 +39,8 @@
 		<div class="carousel-item active">
 			<img src="background_act.jpg" alt="image of first slider">
 			<div class="carousel-caption">
-				<h1 class="display-2">Activities</h1>
-				<p class="h3 subtitle">A1-A9</p>
-
+				<h1 class="display-2">Certificates</h1>
+				<p class="h3 subtitle">C1-C3</p>
 			</div>
 		</div>
 	</div>
@@ -49,20 +48,29 @@
 
 <!--- Two Column Section -->
 <div class="container-fluid padding">
-		<div class="row padding">
-			<div class="col-lg-6">
-				<h2>Activity 3: 1000 Floor Elevator</h2>
-				<p>If I would have a chance to design an elevator that has a thousand floors. I will design the elevator in not in a usual single way type of elevator. The elevator would only be available in every 1-50 floor then you’ll have to get out of the elevator and go to another one. This way it might have been a little inconvenient. But it will secure the people inside of the building’s safety. Also, the elevator would only allow the people to go inside when someone can access it using communicator. Communicator is the way I think it would solve the usage of elevator and minimize it for the public use if the building that were referring to is private. The communicator is like a tablet that’s only been given to the employees of the building. This communicator has stored all the data of the employees of the building and every employee has different kind of level depending on their position on where they could only go. Saying the employee is just a regular type 1 that means they could only access the part of the building that is only allowed for the regular employees. But they could also go to other level if someone with the higher position on the allowed them and gives them the access to go inside of other level security rooms. The communicator will also be the one who’s going to be the button for the people whenever they have to go somewhere. The floor will glow up depending on where they should be and if they have to go somewhere even if they don’t have given the permission to, they could still use the communicator to the elevator but the only floors they could access is the ones they were only allowed to do so. In order for the employees know whether it’s already connected to the elevator is that there would be a logo that will glow whenever someone’s communicator went inside the elevator.  </p>
-			   
-					<a href="activities2.php" class="btn btn-primary">Previous Page</a>
-					<a href="activities4.php" class="btn btn-primary">Next Page</a>
-			</div>
-			<div class="col-lg-6">
-				<img src="bolt.jpg" alt="Bootstrap" class="img-fluid">
-			</div>		
+	<div class="row padding">
+		<div class="col-lg-6">
+			<h2>Certificate 1: Android Development Essential Training: The User Interface</h2>
+			<p><style> p {text-indent:50px;t}</style>A stylish, compelling user interface can quickly turn new users into fans. In this installment of the Android Development Essential Training series, jump-start your Android development journey by learning how to design a simple user interface in a native Android application. Android developer and instructor David Gassner shares tips and tricks he picked up in his own career, covering how to define screens with layout files, use ViewGroup components, and define visual styles and themes. Plus, he shares a variety of techniques you can leverage to display images, ensure that your app looks great on a variety of different devices, and more.</p>
+			<p><b>Learning Objectives:</b></p>
+            <p>-Defining screens with layout files</p>
+            <p>-Using ViewGroup components</p>
+            <p>-Displaying views programmatically</p>
+            <p>-Defining and using string resources</p>
+            <p>-Displaying images</p>
+            <p>-Creating icons in Android Studio</p>
+            <p>-Defining visual styles and themes</p>
+			<p>-Supporting styles on older devices</p>
+			<p>-Supporting multiple devices and screens</p>
+			<br>
+			<a href="certificates2.php" class="btn btn-primary">Next Page</a>
 		</div>
+		<div class="col-lg-6">
+				<img src="cert1.jpg" alt="Bootstrap" class="img-fluid">
+			</div>		
 	</div>
-	
+</div>
+
 <hr class="my-4">
   
 <!--- Outputs -->

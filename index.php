@@ -26,6 +26,7 @@
 				<li class="nav-item"><a href="activities.php" class="nav-link">Activities</a></li>
 				<li class="nav-item"><a href="reflections.php" class="nav-link">Reflections</a></li>
 				<li class="nav-item"><a href="quizzes.php" class="nav-link">Quizzes</a></li>
+				<li class="nav-item"><a href="certificates.php" class="nav-link">Certificates</a></li>
 				<li class="nav-item"><a href="https://www.apc.edu.ph" class="nav-link">About Us</a></li>
 			</ul>
 		</div>
@@ -43,8 +44,8 @@
 		<div class="carousel-item active">
 			<img src="background2.png" alt="image of first slider">
 			<div class="carousel-caption">
-				<h1 class="display-2">User Design Website</h1>
-				<p class="h3 subtitle">My Personal Website</p>
+				<h1 class="display-2">My Personal Website</h1>
+				<p class="h3 subtitle">Designed by Prince Rosento</p>
 			</div>
 		</div>
 		<div class="carousel-item">
@@ -60,7 +61,7 @@
 <div class="container-fluid">
 	<div class="row jumbotron">
 		<div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-10">
-			<p class="lead">This Website is a project for our school subject called UI/UX Design and programming(USERDES)</p>
+			<p class="lead">This Website is a partial fulfillment of the requirement for our school subject called UI/UX Design and programming(USERDES)</p>
 		</div>
 		<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-2">
 			<a href="activities.php">
@@ -78,7 +79,7 @@
 		</div>
         
 		<div class="col-12">
-			<p class="lead">These are the tools thats been used to make this project possible.</p>
+			<p class="lead">These are the tools that's been used to make this project possible.</p>
 		</div>
 	</div>
 </div>
@@ -151,7 +152,7 @@
 			</div>
 		</div>
 		<div class="card">
-			<img src="reflection1.jpg" alt="Picture of Mary Jo" class="card-img-top">
+			<img src="reflection1.jpg" alt="reflection" class="card-img-top">
 			<div class="card-body">
 				<h3 class="card-title">Reflections</h3>
 				<p class="card-text">This is where you would be able to read my reflections regarding with our subject and learning.</p>
@@ -159,7 +160,7 @@
 			</div>
 		</div>
 		<div class="card">
-			<img src="quizzes.jpg" alt="Picture of Phil Ho" class="card-img-top">
+			<img src="quizzes.jpg" alt="quizzes" class="card-img-top">
 			<div class="card-body">
 				<h3 class="card-title">Quizzes</h3>
 				<p class="card-text">You could see a glimpse of what kind of Quizzes do we take and my scores with this subject.</p>
