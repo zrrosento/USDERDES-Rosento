@@ -66,7 +66,7 @@
 			<a href="certificates2.php" class="btn btn-primary">Next Page</a>
 		</div>
 		<div class="col-lg-6">
-				<img src="cert1.jpg" alt="Bootstrap" class="img-fluid">
+				<img src="cert1.JPG" alt="Bootstrap" class="img-fluid">
 			</div>		
 	</div>
 </div>
