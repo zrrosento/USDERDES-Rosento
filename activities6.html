@@ -53,9 +53,7 @@
 		<div class="row padding">
 			<div class="col-lg-6">
 				<h2>Activity 6: Persona</h2>
-				<p>Creating your own persona is a fun and intuitive way to shed more light on the purpose of your proposal. It gives your viewers a little taste of what your product or service is offering via characterizations of your population target.
-				Generally speaking, personas are semi-fictional characters based on the traits or environment of your target population. This allows you to fine tune your presentation and gear it more towards your project’s goal. They are visual representations of how your proposal will be used, spread, or managed.
-				In our group’s case, we’ve created three characters, each representing a target group for the reservation system. Three groups have been established, the Gaming Genesis members of APC, those working in the ITRO and casual gamer students.
+				<p>Making your own persona is a fun and instinctive approach to reveal more insight into the motivation behind your proposition. It gives your watchers a little taste of what your item or administration is offering through portrayals of your populace target. As a rule, personas are semi-anecdotal characters dependent on the attributes or condition of your objective populace. This enables you to tweak your introduction and apparatus it more towards your undertaking's objective. They are visual portrayals of how your proposition will be utilized, spread, or oversaw. In our gathering's case, we've made three characters, each speaking to an objective gathering for the booking framework. Three gatherings have been set up, the Gaming Beginning individuals from APC, those working in the ITRO and easygoing gamer understudies.
 				</p>
 				<p>1.	Gaming genesis members
 					<p>	•	Gaming Genesis is a small group in APC for those with a strong passion for games. Aside from spending time gaming casually, they also take it to the next level by facilitating events that promote the benefits of gaming, while also giving new students a taste of how fun APC can be.

@@ -40,8 +40,8 @@
 		<div class="carousel-item active">
 			<img src="background_act.jpg" alt="image of first slider">
 			<div class="carousel-caption">
-				<h1 class="display-2">Activities</h1>
-				<p class="h3 subtitle">A1-A9</p>
+				<h1 class="display-2">Reflections</h1>
+				<p class="h3 subtitle">R1</p>
 			</div>
 		</div>
 	</div>
@@ -51,20 +51,21 @@
 <div class="container-fluid padding">
 	<div class="row padding">
 		<div class="col-lg-6">
-			<h2>Activity 1: Self Introduction</h2>
-			<p><style> p {text-indent:50px;t}</style>Hi, I'm Prince Rosento, Nice to meet you. I am as of now 19 years of age. I was conceived in the medical clinic of Pasay city and later moved in Cavite. Following a couple of years I later migrated in Taguig. Here in Taguig is the place I as of now live in up until right up 'til today. I don't ordinarily travel a great deal independent from anyone else. In any case, I've been into certain spots that I could state is amazing. For example, in a cascade in Bulacan. It took us an a serious long time before we arrive, and we even move up unto a high mountain just to arrive. It might have been debilitating to arrive yet for me it was all worth the exertion being there. The water is cold and clear. It's appropriate to have a decent swimming. That was the main falls that I couldn't overlook. When we were en route to that falls. All I was believing is that I simply needed to have some rest or simply sit in light of the fact that I figured it wasn't generally that justified, despite all the trouble. Imagining that they may have been many individuals in there. Luckily, when we arrived. There weren't numerous individuals now and resembled nearly the main ones in there. Along these lines, it's truly unwinding thus pleasant being there in light of the fact that we got the chance to investigate a mountain and furthermore a fall. </p>
-
-			<p>My desires for this class would be that I'd become familiar with a great deal of new things in planning and different sites that I haven't seen previously. Additionally, to create and upgrade my aptitudes in planning and building up my own sites later on</p>
-			<br>
-			<a href="activities2.php" class="btn btn-primary">Next Page</a>
+			<h2>Reflection 4: Userinyerface - Worst UI</h2>
+			<p><style> p {text-indent:50px;t}</style>In the event that the watcher of my site is considering whether the title was incorrectly spelled. No, it isn't. It is the given name of the site that has an arrangement of inquiry that was plainly founded on rationale and it tests how great your comprehension is. </p>
+            <p>I initially got my very own appearance towards this given theme previously yet some way or another, I lost it and couldn't discover it any longer thus I chose to make another one. The primary attempt of me doing this sort of training went extremely loathsome since I didn't have the foggiest idea what precisely should I answer offered that the response isn't the genuine answer and I can see a ton of my cohorts are now advancing and they are truly having a race on which could complete it first. In spite of the fact that my rationale isn't generally that incredible as like them, I theory I simply didn't get it the first run through since I figured I should just barely pick which answer is right and not actually considering what I should do. The main endeavor of me doing it resembles gazing into it and figuring whether I should proceed or not since the main answer that I could consider is an inappropriate one. Here demonstrates the time stamp of my first endeavor of this training.</p>
+        <div class="col-lg-6">
 		</div>
-		<div class="col-lg-6">
-				<img src="pic.jpg" alt="Bootstrap" class="img-fluid">
-			</div>		
+			<br>
+            <a href="reflections2.php" class="btn btn-primary">Previous Page</a>
+			<a href="reflections4.php" class="btn btn-primary">Next Page</a>
+		</div>
+		
 	</div>
 </div>
 
 <hr class="my-4">
+
   
 <!--- Outputs -->
 <div class="container-fluid padding">

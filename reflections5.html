@@ -40,8 +40,8 @@
 		<div class="carousel-item active">
 			<img src="background_act.jpg" alt="image of first slider">
 			<div class="carousel-caption">
-				<h1 class="display-2">Activities</h1>
-				<p class="h3 subtitle">A1-A9</p>
+				<h1 class="display-2">Reflections</h1>
+				<p class="h3 subtitle">R1</p>
 			</div>
 		</div>
 	</div>
@@ -51,20 +51,22 @@
 <div class="container-fluid padding">
 	<div class="row padding">
 		<div class="col-lg-6">
-			<h2>Activity 1: Self Introduction</h2>
-			<p><style> p {text-indent:50px;t}</style>Hi, I'm Prince Rosento, Nice to meet you. I am as of now 19 years of age. I was conceived in the medical clinic of Pasay city and later moved in Cavite. Following a couple of years I later migrated in Taguig. Here in Taguig is the place I as of now live in up until right up 'til today. I don't ordinarily travel a great deal independent from anyone else. In any case, I've been into certain spots that I could state is amazing. For example, in a cascade in Bulacan. It took us an a serious long time before we arrive, and we even move up unto a high mountain just to arrive. It might have been debilitating to arrive yet for me it was all worth the exertion being there. The water is cold and clear. It's appropriate to have a decent swimming. That was the main falls that I couldn't overlook. When we were en route to that falls. All I was believing is that I simply needed to have some rest or simply sit in light of the fact that I figured it wasn't generally that justified, despite all the trouble. Imagining that they may have been many individuals in there. Luckily, when we arrived. There weren't numerous individuals now and resembled nearly the main ones in there. Along these lines, it's truly unwinding thus pleasant being there in light of the fact that we got the chance to investigate a mountain and furthermore a fall. </p>
-
-			<p>My desires for this class would be that I'd become familiar with a great deal of new things in planning and different sites that I haven't seen previously. Additionally, to create and upgrade my aptitudes in planning and building up my own sites later on</p>
-			<br>
-			<a href="activities2.php" class="btn btn-primary">Next Page</a>
+			<h2>Reflection 6: First half of USERDES</h2>
+			<p><style> p {text-indent:50px;t}</style>On the off chance that a portion of the individuals who view my site didn't have a clue what USERDES is, it's a subject in our school (APC). Which causes us to comprehend and realize what are the interesting points when planning on everything. For example, structuring a program or making our own site. </p>
+            <p>The primary portion of our subject went incredible and everything is spot on track. In any event for me, however I will most likely be unable to consent the necessities on schedule. Be that as it may, despite everything I have a feeling that I'm not keep down in light of the fact that our teacher is continually refreshing our Trello gathering board. This is something that I like the most in our teacher at this subject. Since not the majority of the educator that I've had isn't generally consistently refreshed on the web. Which is totally reasonable considering a large portion of them doesn't just deal with a couple of areas. In any case, what I like the most on the Trello is that it matches up with truly with everybody. Whatever changes of each part made, you could see every last bit of it at the sheet along its edge, which is absolutely amazing. We even got the opportunity to play at its foundation and actually played it like a disco. I adore the part that our teacher let us do what plan we need individually close to home Trello card. This causes us further our very own imagination significantly more. As we progress through the theme that we've had. We as a whole got the chance to adapt significantly more on the basics of the structures and different potential outcomes that we could do and we even some of the time got the chance to share our very own thoughts in regards to with the plan with the utilization of Trello.</p>
+            <p>In general, for me the principal half didn't give us trouble as we expected that it would be. Which is incredible and furthermore an abundance of thanks to our teacher who is understanding on the grounds that despite the fact that a few of us are late with regards to passing a task or venture, regardless she acknowledges it. She additionally let us play an educative game which is Kahoot. It resembles a game, yet the inquiries are altogether identified with the subject that we are for the most part considering.</p>
+        <div class="col-lg-6">
 		</div>
-		<div class="col-lg-6">
-				<img src="pic.jpg" alt="Bootstrap" class="img-fluid">
-			</div>		
+			<br>
+            <a href="reflections4.php" class="btn btn-primary">Previous Page</a>
+			<a href="index.php" class="btn btn-primary">Home</a>
+		</div>
+		
 	</div>
 </div>
 
 <hr class="my-4">
+
   
 <!--- Outputs -->
 <div class="container-fluid padding">

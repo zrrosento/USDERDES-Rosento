@@ -40,8 +40,8 @@
 		<div class="carousel-item active">
 			<img src="background_act.jpg" alt="image of first slider">
 			<div class="carousel-caption">
-				<h1 class="display-2">Activities</h1>
-				<p class="h3 subtitle">A1-A9</p>
+				<h1 class="display-2">Reflections</h1>
+				<p class="h3 subtitle">R1</p>
 			</div>
 		</div>
 	</div>
@@ -51,20 +51,22 @@
 <div class="container-fluid padding">
 	<div class="row padding">
 		<div class="col-lg-6">
-			<h2>Activity 1: Self Introduction</h2>
-			<p><style> p {text-indent:50px;t}</style>Hi, I'm Prince Rosento, Nice to meet you. I am as of now 19 years of age. I was conceived in the medical clinic of Pasay city and later moved in Cavite. Following a couple of years I later migrated in Taguig. Here in Taguig is the place I as of now live in up until right up 'til today. I don't ordinarily travel a great deal independent from anyone else. In any case, I've been into certain spots that I could state is amazing. For example, in a cascade in Bulacan. It took us an a serious long time before we arrive, and we even move up unto a high mountain just to arrive. It might have been debilitating to arrive yet for me it was all worth the exertion being there. The water is cold and clear. It's appropriate to have a decent swimming. That was the main falls that I couldn't overlook. When we were en route to that falls. All I was believing is that I simply needed to have some rest or simply sit in light of the fact that I figured it wasn't generally that justified, despite all the trouble. Imagining that they may have been many individuals in there. Luckily, when we arrived. There weren't numerous individuals now and resembled nearly the main ones in there. Along these lines, it's truly unwinding thus pleasant being there in light of the fact that we got the chance to investigate a mountain and furthermore a fall. </p>
-
-			<p>My desires for this class would be that I'd become familiar with a great deal of new things in planning and different sites that I haven't seen previously. Additionally, to create and upgrade my aptitudes in planning and building up my own sites later on</p>
-			<br>
-			<a href="activities2.php" class="btn btn-primary">Next Page</a>
+			<h2>Reflection 3: First web application using github and heroku</h2>
+			<p><style> p {text-indent:50px;t}</style>Creating a website is not hard like programming or doing codes. But designing is and making yourself satisfied with the website you’ve created. This is one of the main problems that I’ve encountered while creating my own website. Whether this would be enough, or should I add more stuff and design on the background or maybe I could just let it this way and keep it simple.</p>
+            <p>I created my website with the Visual studio code, which is an application for creating and editing a website. It helped me throughout the making of my website possible. Since I could clearly see in which line did, I get an error and what exactly the error is. At first, I made a simple website with literally just a text and a sample pictures to see where it would be place and what would it look like if I were to put a lot of text and photos on it. What I also did is I made a another copy of the website that I’m doing to test what would it look like if I made a small changes such as doing the style of the lines and font style and such as the logos that I’ve used to let the viewer of my website know what are the tools that I’ve used to create it. By doing this it made it so much easier edit on how I can place the text or if it is it on the right place. I then proceed on using a comment at the very top of every piece of parts of the website. Since, I’ve heard that most of my classmates got confuse when they are scrambling their websites after editing. By doing that, it also made the editing of all parts of the website easier since I only got to copy the parts on where I’ve had an error and also, I get to see of what part of my website is it. </p>
+            <p>I guess the only thing that made me stuck with my website is the Github and Heroku. Because I can’t ask anyone on how I could function out the Github and somehow manage to connect it to Heroku since most of my classmates are usually busy with their own work. Of which I totally understand, and I know that I could just ask my professor regarding about it. But since a lot of my classmates are already going back and forth with my professor, I don’t want to be a burden to her anymore. Of which I kinda regret not asking a question but It still left me satisfied that I’ve ask for helped. Thus, the making of my website. </p>
+        <div class="col-lg-6">
 		</div>
-		<div class="col-lg-6">
-				<img src="pic.jpg" alt="Bootstrap" class="img-fluid">
-			</div>		
+			<br>
+            <a href="reflections1.php" class="btn btn-primary">Previous Page</a>
+			<a href="reflections3.php" class="btn btn-primary">Next Page</a>
+		</div>
+		
 	</div>
 </div>
 
 <hr class="my-4">
+
   
 <!--- Outputs -->
 <div class="container-fluid padding">

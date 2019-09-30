@@ -61,7 +61,7 @@
         <div class="col-lg-6">
 		</div>
 			<br>
-            <a href="index.php" class="btn btn-primary">Back Home</a>
+            <a href="reflections1.php" class="btn btn-primary">Next Page</a>
 		</div>
 		
 	</div>

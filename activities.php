@@ -52,21 +52,9 @@
 	<div class="row padding">
 		<div class="col-lg-6">
 			<h2>Activity 1: Self Introduction</h2>
-			<p><style> p {text-indent:50px;t}</style>Hello, I'm Prince Rosento, Nice to meet you. 
-				I am already 19 years old. I was born in the hospital of Pasay city and later transferred in Cavite. 
-				After a few years I later relocated in Taguig. Here in Taguig is where I currently live in up until to this day. 
-				I don’t usually travel a lot by myself. But I’ve been into some places that I could say is breath taking. 
-				Such as in a waterfall in Bulacan. It took us a quite a long time before we get there, and we even climb up unto a high mountain just to get there. 
-				It may have been exhausting to get there but for me it was all worth the effort being there. 
-				The water is cold and clear. It’s suitable to have a nice swimming. That was the only falls that I could not forget. 
-				When we were on our way to that falls. 
-				All I was thinking is that I just wanted to have some rest or just sit because I thought it wasn’t really that worth it. 
-				Thinking that they may have been a lot of people in there. Fortunately, when we got there. 
-				There weren’t many people now and were like almost the only ones in there. 
-				So, it’s really relaxing and so enjoyable being there because we got to explore a mountain and also a fall. </p>
+			<p><style> p {text-indent:50px;t}</style>Hi, I'm Prince Rosento, Nice to meet you. I am as of now 19 years of age. I was conceived in the medical clinic of Pasay city and later moved in Cavite. Following a couple of years I later migrated in Taguig. Here in Taguig is the place I as of now live in up until right up 'til today. I don't ordinarily travel a great deal independent from anyone else. In any case, I've been into certain spots that I could state is amazing. For example, in a cascade in Bulacan. It took us an a serious long time before we arrive, and we even move up unto a high mountain just to arrive. It might have been debilitating to arrive yet for me it was all worth the exertion being there. The water is cold and clear. It's appropriate to have a decent swimming. That was the main falls that I couldn't overlook. When we were en route to that falls. All I was believing is that I simply needed to have some rest or simply sit in light of the fact that I figured it wasn't generally that justified, despite all the trouble. Imagining that they may have been many individuals in there. Luckily, when we arrived. There weren't numerous individuals now and resembled nearly the main ones in there. Along these lines, it's truly unwinding thus pleasant being there in light of the fact that we got the chance to investigate a mountain and furthermore a fall. </p>
 
-			<p>My expectations for this class would be that I’d learn a lot of new things in designing and other websites that I haven't seen before. 
-				Also, to develop and enhance my skills in designing and developing my own websites in the future </p>
+			<p>My desires for this class would be that I'd become familiar with a great deal of new things in planning and different sites that I haven't seen previously. Additionally, to create and upgrade my aptitudes in planning and building up my own sites later on</p>
 			<br>
 			<a href="activities2.php" class="btn btn-primary">Next Page</a>
 		</div>

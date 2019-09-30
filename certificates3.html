@@ -51,16 +51,7 @@
 	<div class="row padding">
 		<div class="col-lg-6">
 			<h2>Certificate 3: User Experience for Web Design</h2>
-			<p><style> p {text-indent:50px;t}</style>A good user experience design will make visitors stay on your site. A bad one will make them go to someone else's. This class teaches you how to apply simple UX design principles to your site to make it behave in the way that users want and expect.
-
-                User experience expert Chris Nodder teaches
-                What people want from websites, how they search for information, how they read online, and how to structure your content to take advantage of this research
-                How to use graphics to help rather than hinder visitors, how to integrate video, audio, and other media, and when to consider interactive rather than static content
-                How to look at your site's homepage, forms, product pages, and content through the eyes of users to build a site that better meets their needs
-                How to balance site content with advertising
-                
-                
-                There are never enough great interfaces in the world. Take this easy introduction to start making wonderful online experiences for your own users.</p>
+			<p><style> p {text-indent:50px;t}</style>A decent client experience configuration will make guests remain on your site. An awful one will cause them to go to somebody else's. This class shows you how to apply basic UX structure standards to your site to cause it to carry on in the manner that clients need and anticipate. Client experience master Chris Nodder trains What individuals need from sites, how they scan for data, how they read on the web, and how to structure your substance to exploit this examination How to utilize illustrations to help instead of obstruct guests, how to incorporate video, sound, and other media, and when to consider intuitive as opposed to static substance What to look like at your website's landing page, structures, item pages, and substance through the eyes of clients to assemble a webpage that better addresses their issues How to offset website content with publicizing There are never enough extraordinary interfaces on the planet. Take this simple prologue to begin making magnificent online encounters for your own clients.</p>
             <p><b>Learning Objectives:</b></p>
             <p>-Building a site visitors will like</p>
             <p>-Using single, consistent, and standard design principles</p>
@@ -78,7 +69,7 @@
 			<a href="index.php" class="btn btn-primary">Home</a>
 		</div>
 		<div class="col-lg-6">
-				<img src="cert3.JPG" alt="Bootstrap" class="img-fluid">
+				<img src="cert3.jpg" alt="Bootstrap" class="img-fluid">
 			</div>		
 	</div>
 </div>

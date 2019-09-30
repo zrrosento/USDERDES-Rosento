@@ -51,7 +51,7 @@
 	<div class="row padding">
 		<div class="col-lg-6">
 			<h2>Certificate 1: Android Development Essential Training: The User Interface</h2>
-			<p><style> p {text-indent:50px;t}</style>A stylish, compelling user interface can quickly turn new users into fans. In this installment of the Android Development Essential Training series, jump-start your Android development journey by learning how to design a simple user interface in a native Android application. Android developer and instructor David Gassner shares tips and tricks he picked up in his own career, covering how to define screens with layout files, use ViewGroup components, and define visual styles and themes. Plus, he shares a variety of techniques you can leverage to display images, ensure that your app looks great on a variety of different devices, and more.</p>
+			<p><style> p {text-indent:50px;t}</style>A trendy, convincing UI can rapidly transform new clients into fans. In this portion of the Android Advancement Basic Preparing arrangement, kick off your Android improvement venture by figuring out how to plan a straightforward UI in a local Android application. Android engineer and teacher David Gassner offers tips and deceives he grabbed in his own profession, covering how to characterize screens with design records, use ViewGroup segments, and characterize visual styles and subjects. In addition, he shares an assortment of strategies you can use to show pictures, guarantee that your application looks extraordinary on a wide range of gadgets, and that's only the tip of the iceberg.</p>
 			<p><b>Learning Objectives:</b></p>
             <p>-Defining screens with layout files</p>
             <p>-Using ViewGroup components</p>
@@ -66,7 +66,7 @@
 			<a href="certificates2.php" class="btn btn-primary">Next Page</a>
 		</div>
 		<div class="col-lg-6">
-				<img src="cert1.JPG" alt="Bootstrap" class="img-fluid">
+				<img src="cert1.jpg" alt="Bootstrap" class="img-fluid">
 			</div>		
 	</div>
 </div>

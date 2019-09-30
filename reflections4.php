@@ -40,8 +40,8 @@
 		<div class="carousel-item active">
 			<img src="background_act.jpg" alt="image of first slider">
 			<div class="carousel-caption">
-				<h1 class="display-2">Activities</h1>
-				<p class="h3 subtitle">A1-A9</p>
+				<h1 class="display-2">Reflections</h1>
+				<p class="h3 subtitle">R1</p>
 			</div>
 		</div>
 	</div>
@@ -51,20 +51,22 @@
 <div class="container-fluid padding">
 	<div class="row padding">
 		<div class="col-lg-6">
-			<h2>Activity 1: Self Introduction</h2>
-			<p><style> p {text-indent:50px;t}</style>Hi, I'm Prince Rosento, Nice to meet you. I am as of now 19 years of age. I was conceived in the medical clinic of Pasay city and later moved in Cavite. Following a couple of years I later migrated in Taguig. Here in Taguig is the place I as of now live in up until right up 'til today. I don't ordinarily travel a great deal independent from anyone else. In any case, I've been into certain spots that I could state is amazing. For example, in a cascade in Bulacan. It took us an a serious long time before we arrive, and we even move up unto a high mountain just to arrive. It might have been debilitating to arrive yet for me it was all worth the exertion being there. The water is cold and clear. It's appropriate to have a decent swimming. That was the main falls that I couldn't overlook. When we were en route to that falls. All I was believing is that I simply needed to have some rest or simply sit in light of the fact that I figured it wasn't generally that justified, despite all the trouble. Imagining that they may have been many individuals in there. Luckily, when we arrived. There weren't numerous individuals now and resembled nearly the main ones in there. Along these lines, it's truly unwinding thus pleasant being there in light of the fact that we got the chance to investigate a mountain and furthermore a fall. </p>
-
-			<p>My desires for this class would be that I'd become familiar with a great deal of new things in planning and different sites that I haven't seen previously. Additionally, to create and upgrade my aptitudes in planning and building up my own sites later on</p>
-			<br>
-			<a href="activities2.php" class="btn btn-primary">Next Page</a>
+			<h2>Reflection 5: Socit fest</h2>
+			<p><style> p {text-indent:50px;t}</style>I think from what I've gotten notification from the greater part of my schoolmates the SOCIT fest went extraordinary however it might appear to be somewhat unique in relation to what was everybody was expecting it would be. In any case, I would state base on inputs that I've gotten notification from the greater part of my schoolmates that went to into it. It obviously demonstrates that it improved a ton from what it was previously. In spite of the fact that a portion of my schoolmates were anticipating a few games and different exercises. The SOCIT fest was about the discussion. The discussion gave us a great deal of data about things that we didn't know about previously. </p>
+            <p>I solicited some from my square mate in regard to what was the discussion about. they said that it illuminates the understudies to the key variables or different interesting points with regards to retailing your game, how might you benefit from it, what are your intended interest groups and how might you promote it to the market. Different subjects that was informed that regarding the other probability that should be possible with the assistance of our device today </p>
+            <p>In general, however I will be unable to go to the discussion because of certain reasons. I could unmistakably say that it went practically incredible and everybody appeared to appreciate it. Despite the fact that the main issue I believe is that it didn't have an action of which is everybody was anticipating</p>
+        <div class="col-lg-6">
 		</div>
-		<div class="col-lg-6">
-				<img src="pic.jpg" alt="Bootstrap" class="img-fluid">
-			</div>		
+			<br>
+            <a href="reflections3.php" class="btn btn-primary">Previous Page</a>
+			<a href="reflections5.php" class="btn btn-primary">Next Page</a>
+		</div>
+		
 	</div>
 </div>
 
 <hr class="my-4">
+
   
 <!--- Outputs -->
 <div class="container-fluid padding">

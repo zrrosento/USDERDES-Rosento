@@ -51,7 +51,7 @@
 	<div class="row padding">
 		<div class="col-lg-6">
 			<h2>Certificate 2: Interaction Design for the Web</h2>
-			<p><style> p {text-indent:50px;t}</style>While user behavior may often seem random, there are psychological reasons behind the choices individuals make as they navigate a user interface. In this course, learn about the psychological reasons why good UI design works, so that you can build websites and apps that work the way your users think. Instructor Chris Nodder helps you get started by discussing how brains work, and how to design around the limitations of the human brain. He also explains how to use perception principles to enhance the flow of your UI; leverage physical concepts to create a more intuitive UI; and smooth out your workflow. To wrap up the course, he explains how to fix small annoyances and make your interface pleasant to use.</p>
+			<p><style> p {text-indent:50px;t}</style>While client conduct may regularly appear to be irregular, there are mental purposes for the decisions people make as they explore a UI. In this course, find out about the mental reasons why great UI configuration works, so you can assemble sites and applications that work the manner in which your clients think. Educator Chris Nodder causes you begin by talking about how minds work, and how to structure around the constraints of the human cerebrum. He likewise discloses how to utilize observation standards to upgrade the progression of your UI; influence physical ideas to make an increasingly natural UI; and smooth out your work process. To wrap up the course, he discloses how to fix little irritations and make your interface charming to utilize.</p>
             <p><b>Learning Objectives:</b></p>
             <p>-Designing around human limitations</p>
             <p>-Telling stories</p>
@@ -66,7 +66,7 @@
 			<a href="certificates3.php" class="btn btn-primary">Next Page</a>
 		</div>
 		<div class="col-lg-6">
-				<img src="cert2.JPG" alt="Bootstrap" class="img-fluid">
+				<img src="cert2.jpg" alt="Bootstrap" class="img-fluid">
 			</div>		
 	</div>
 </div>

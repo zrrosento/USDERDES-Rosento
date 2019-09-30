@@ -40,8 +40,8 @@
 		<div class="carousel-item active">
 			<img src="background_act.jpg" alt="image of first slider">
 			<div class="carousel-caption">
-				<h1 class="display-2">Activities</h1>
-				<p class="h3 subtitle">A1-A9</p>
+				<h1 class="display-2">Reflections</h1>
+				<p class="h3 subtitle">R1</p>
 			</div>
 		</div>
 	</div>
@@ -51,20 +51,21 @@
 <div class="container-fluid padding">
 	<div class="row padding">
 		<div class="col-lg-6">
-			<h2>Activity 1: Self Introduction</h2>
-			<p><style> p {text-indent:50px;t}</style>Hi, I'm Prince Rosento, Nice to meet you. I am as of now 19 years of age. I was conceived in the medical clinic of Pasay city and later moved in Cavite. Following a couple of years I later migrated in Taguig. Here in Taguig is the place I as of now live in up until right up 'til today. I don't ordinarily travel a great deal independent from anyone else. In any case, I've been into certain spots that I could state is amazing. For example, in a cascade in Bulacan. It took us an a serious long time before we arrive, and we even move up unto a high mountain just to arrive. It might have been debilitating to arrive yet for me it was all worth the exertion being there. The water is cold and clear. It's appropriate to have a decent swimming. That was the main falls that I couldn't overlook. When we were en route to that falls. All I was believing is that I simply needed to have some rest or simply sit in light of the fact that I figured it wasn't generally that justified, despite all the trouble. Imagining that they may have been many individuals in there. Luckily, when we arrived. There weren't numerous individuals now and resembled nearly the main ones in there. Along these lines, it's truly unwinding thus pleasant being there in light of the fact that we got the chance to investigate a mountain and furthermore a fall. </p>
-
-			<p>My desires for this class would be that I'd become familiar with a great deal of new things in planning and different sites that I haven't seen previously. Additionally, to create and upgrade my aptitudes in planning and building up my own sites later on</p>
-			<br>
-			<a href="activities2.php" class="btn btn-primary">Next Page</a>
+			<h2>Reflection 2: Need finding and Paper prototyping</h2>
+			<p><style> p {text-indent:50px;t}</style>When dealing with our undertaking, the Need Discovering segment felt rather basic and direct in that we previously perceived the fundamental issue/s in our space. The harder part came when planning the look and usefulness of our application. One thing I've seen is that you totally can't be direct when you're discussing plan. Truly, you should adhere to your objective, yet you need to make a structure that streams like water, and can adjust to an assortment of clients. Not all might have the option to peruse also, so hues could be utilized. On the other hand, many are visually challenged so iconography could be a thing. We attempt to consider innovative better approaches to explore a site that work something other than a basic point-and-snap strategy. </p>
+			<p>After a great deal of discussing, our last structure took some motivation from Trello. The design of a Trello board appeared as though a reasonable format to reference when making our application, so ideally with additionally tweaking a possible model can be framed.</p>
+        <div class="col-lg-6">
 		</div>
-		<div class="col-lg-6">
-				<img src="pic.jpg" alt="Bootstrap" class="img-fluid">
-			</div>		
+			<br>
+            <a href="reflections.php" class="btn btn-primary">Previous Page</a>
+			<a href="reflections2.php" class="btn btn-primary">Next Page</a>
+		</div>
+		
 	</div>
 </div>
 
 <hr class="my-4">
+
   
 <!--- Outputs -->
 <div class="container-fluid padding">
