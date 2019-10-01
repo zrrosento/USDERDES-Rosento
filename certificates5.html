@@ -59,7 +59,7 @@
             <p>-Defining main and enterprise CUIs</p>
 			<br>
 			<a href="certificates4.php" class="btn btn-primary">Previous Page</a>
-			<a href="ceritificates6.php" class="btn btn-primary">Next Page</a>
+			<a href="certificates6.php" class="btn btn-primary">Next Page</a>
 		</div>
 		<div class="col-lg-6">
 				<img src="cert5.JPG" alt="Bootstrap" class="img-fluid">
