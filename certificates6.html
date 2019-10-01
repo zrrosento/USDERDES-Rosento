@@ -59,7 +59,7 @@
             <p>-Adding elements with sprites</p>
 			<br>
 			<a href="certificates4.php" class="btn btn-primary">Previous Page</a>
-			<a href="ceritificates6.php" class="btn btn-primary">Next Page</a>
+			<a href="index.php" class="btn btn-primary">Home</a>
 		</div>
 		<div class="col-lg-6">
 				<img src="cert6.JPG" alt="Bootstrap" class="img-fluid">
