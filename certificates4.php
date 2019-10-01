@@ -64,7 +64,7 @@
             <p>-Comparing the original site to the enhanced site</p>
 			<br>
 			<a href="certificates3.php" class="btn btn-primary">Previous Page</a>
-			<a href="ceritificates5.php" class="btn btn-primary">Next Page</a>
+			<a href="certificates5.php" class="btn btn-primary">Next Page</a>
 		</div>
 		<div class="col-lg-6">
 				<img src="cert4.JPG" alt="Bootstrap" class="img-fluid">
