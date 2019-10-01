@@ -25,7 +25,6 @@
 				<li class="nav-item active"><a href="index.php" class="nav-link">Home</a></li>
 				<li class="nav-item"><a href="activities.php" class="nav-link">Activities</a></li>
 				<li class="nav-item"><a href="reflections.php" class="nav-link">Reflections</a></li>
-				<li class="nav-item"><a href="quizzes.php" class="nav-link">Quizzes</a></li>
 				<li class="nav-item"><a href="certificates.php" class="nav-link">Certificates</a></li>
 				<li class="nav-item"><a href="https://www.apc.edu.ph" class="nav-link">About Us</a></li>
 			</ul>
@@ -66,7 +65,7 @@
             <p>-Balancing ads and content</p>
 			<br>
 			<a href="certificates2.php" class="btn btn-primary">Previous Page</a>
-			<a href="index.php" class="btn btn-primary">Home</a>
+			<a href="certificates4.php" class="btn btn-primary">Next Page</a>
 		</div>
 		<div class="col-lg-6">
 				<img src="cert3.JPG" alt="Bootstrap" class="img-fluid">

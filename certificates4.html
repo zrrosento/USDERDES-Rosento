@@ -13,7 +13,6 @@
 </head>
 <body>
 
-
 <!-- Navigation -->
 <nav class="navbar navbar-expand-md navbar-light bg-light sticky-top">
 	<div class="container-fluid">
@@ -39,9 +38,8 @@
 		<div class="carousel-item active">
 			<img src="background_act.jpg" alt="image of first slider">
 			<div class="carousel-caption">
-				<h1 class="display-2">Activities</h1>
-				<p class="h3 subtitle">A1-A9</p>
-
+				<h1 class="display-2">Certificates</h1>
+				<p class="h3 subtitle">C1-C3</p>
 			</div>
 		</div>
 	</div>
@@ -49,31 +47,33 @@
 
 <!--- Two Column Section -->
 <div class="container-fluid padding">
-		<div class="row padding">
-			<div class="col-lg-6">
-				<h2>Activity 7: Information Design</h2>
-				<p>1. How can we improve this?</P>
-					<p>	I think the improve that can be done on this invitation is that it needs a little colorful design but not too much but rather plain-ish but elegant. Also, it needs a little photo for design or a little picture.
-						</p>
-				<p>2. What could be the objective function?</P>
-					<p></p>	I think the objective for this invitation is to encourage anyone who’s invited to come into the after-dinner party. To let them know it’ll be fun and there will be a lot of food in the party.
-				</p>
-					<p>	3. Create your own design/version of the passage</p>
-			   
-					<a href="activities6.php" class="btn btn-primary">Previous Page</a>
-					<a href="Activities8.php" class="btn btn-primary">Next Page</a>
-			</div>
-			<div class="col-lg-6">
-					<img src="improve.PNG" alt="Bootstrap" class="img-fluid">
-				<img src="Infodesign.png" alt="Bootstrap" class="img-fluid">
-			</div>		
+	<div class="row padding">
+		<div class="col-lg-6">
+			<h2>Certificate 4: Applied Interaction Design</h2>
+			<p><style> p {text-indent:50px;t}</style>Dave Hogue has been concentrating how individuals connect with computerized gadgets and interfaces for more than 15 years, and realizes how configuration can represent the moment of truth a site. In this course, he shares a hands-on way to deal with improving cooperation plan for a superior client experience on the web. This course separates the segments of a model site, from its landing page to classifications, content, and the shopping basket, and presents basic client situations that can be utilized to recognize open doors for development. You'll figure out how to improve route, accumulate input after communications, oversee substance layers, and include highlights, for example, limitless looking over, collapsible modules, and dynamic substance to advance the client's involvement. At that point contrast the when sites with comprehend why these systems make them all the more captivating and compelling.</p>
+            <p><b>Learning Objectives:</b></p>
+            <p>-Defining a customer scenario</p>
+            <p>-Improving navigation</p>
+            <p>-Working with content in grids</p>
+            <p>-Establishing a sense of place on category pages</p>
+            <p>-Exploring infinite scroll and pagination methods</p>
+            <p>-Using tooltips to deliver contextual content</p>
+            <p>-Working with light boxes and layers</p>
+            <p>-Improving form structure</p>
+            <p>-Handling errors and presenting effective error messages</p>
+            <p>-Comparing the original site to the enhanced site</p>
+			<br>
+			<a href="certificates3.php" class="btn btn-primary">Previous Page</a>
+			<a href="ceritificates5.php" class="btn btn-primary">Next Page</a>
 		</div>
+		<div class="col-lg-6">
+				<img src="cert4.JPG" alt="Bootstrap" class="img-fluid">
+			</div>		
 	</div>
-	
+</div>
 
 <hr class="my-4">
-
-
+  
 <!--- Outputs -->
 <div class="container-fluid padding">
 	<div class="row welcome text-center">

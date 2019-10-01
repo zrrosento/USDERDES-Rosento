@@ -26,7 +26,6 @@
 				<li class="nav-item active"><a href="index.php" class="nav-link">Home</a></li>
 				<li class="nav-item"><a href="activities.php" class="nav-link">Activities</a></li>
 				<li class="nav-item"><a href="reflections.php" class="nav-link">Reflections</a></li>
-				<li class="nav-item"><a href="quizzes.php" class="nav-link">Quizzes</a></li>
 				<li class="nav-item"><a href="certificates.php" class="nav-link">Certificates</a></li>
 				<li class="nav-item"><a href="https://www.apc.edu.ph" class="nav-link">About Us</a></li>
 			</ul>
@@ -55,12 +54,13 @@
 			<p><style> p {text-indent:50px;t}</style>In the event that the watcher of my site is considering whether the title was incorrectly spelled. No, it isn't. It is the given name of the site that has an arrangement of inquiry that was plainly founded on rationale and it tests how great your comprehension is. </p>
             <p>I initially got my very own appearance towards this given theme previously yet some way or another, I lost it and couldn't discover it any longer thus I chose to make another one. The primary attempt of me doing this sort of training went extremely loathsome since I didn't have the foggiest idea what precisely should I answer offered that the response isn't the genuine answer and I can see a ton of my cohorts are now advancing and they are truly having a race on which could complete it first. In spite of the fact that my rationale isn't generally that incredible as like them, I theory I simply didn't get it the first run through since I figured I should just barely pick which answer is right and not actually considering what I should do. The main endeavor of me doing it resembles gazing into it and figuring whether I should proceed or not since the main answer that I could consider is an inappropriate one. Here demonstrates the time stamp of my first endeavor of this training.</p>
         <div class="col-lg-6">
+				
 		</div>
 			<br>
             <a href="reflections2.php" class="btn btn-primary">Previous Page</a>
 			<a href="reflections4.php" class="btn btn-primary">Next Page</a>
 		</div>
-		
+		<img src="q1.png" alt="Bootstrap" class="img-fluid">
 	</div>
 </div>
 

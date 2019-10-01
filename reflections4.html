@@ -26,7 +26,6 @@
 				<li class="nav-item active"><a href="index.php" class="nav-link">Home</a></li>
 				<li class="nav-item"><a href="activities.php" class="nav-link">Activities</a></li>
 				<li class="nav-item"><a href="reflections.php" class="nav-link">Reflections</a></li>
-				<li class="nav-item"><a href="quizzes.php" class="nav-link">Quizzes</a></li>
 				<li class="nav-item"><a href="certificates.php" class="nav-link">Certificates</a></li>
 				<li class="nav-item"><a href="https://www.apc.edu.ph" class="nav-link">About Us</a></li>
 			</ul>
@@ -56,12 +55,13 @@
             <p>I solicited some from my square mate in regard to what was the discussion about. they said that it illuminates the understudies to the key variables or different interesting points with regards to retailing your game, how might you benefit from it, what are your intended interest groups and how might you promote it to the market. Different subjects that was informed that regarding the other probability that should be possible with the assistance of our device today </p>
             <p>In general, however I will be unable to go to the discussion because of certain reasons. I could unmistakably say that it went practically incredible and everybody appeared to appreciate it. Despite the fact that the main issue I believe is that it didn't have an action of which is everybody was anticipating</p>
         <div class="col-lg-6">
+				
 		</div>
 			<br>
             <a href="reflections3.php" class="btn btn-primary">Previous Page</a>
 			<a href="reflections5.php" class="btn btn-primary">Next Page</a>
 		</div>
-		
+		<img src="socitfest.PNG" alt="Bootstrap" class="img-fluid">
 	</div>
 </div>
 

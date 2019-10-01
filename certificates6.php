@@ -13,7 +13,6 @@
 </head>
 <body>
 
-
 <!-- Navigation -->
 <nav class="navbar navbar-expand-md navbar-light bg-light sticky-top">
 	<div class="container-fluid">
@@ -39,9 +38,8 @@
 		<div class="carousel-item active">
 			<img src="background_act.jpg" alt="image of first slider">
 			<div class="carousel-caption">
-				<h1 class="display-2">Activities</h1>
-				<p class="h3 subtitle">A1-A9</p>
-
+				<h1 class="display-2">Certificates</h1>
+				<p class="h3 subtitle">C1-C3</p>
 			</div>
 		</div>
 	</div>
@@ -49,31 +47,28 @@
 
 <!--- Two Column Section -->
 <div class="container-fluid padding">
-		<div class="row padding">
-			<div class="col-lg-6">
-				<h2>Activity 7: Information Design</h2>
-				<p>1. How can we improve this?</P>
-					<p>	I think the improve that can be done on this invitation is that it needs a little colorful design but not too much but rather plain-ish but elegant. Also, it needs a little photo for design or a little picture.
-						</p>
-				<p>2. What could be the objective function?</P>
-					<p></p>	I think the objective for this invitation is to encourage anyone who’s invited to come into the after-dinner party. To let them know it’ll be fun and there will be a lot of food in the party.
-				</p>
-					<p>	3. Create your own design/version of the passage</p>
-			   
-					<a href="activities6.php" class="btn btn-primary">Previous Page</a>
-					<a href="Activities8.php" class="btn btn-primary">Next Page</a>
-			</div>
-			<div class="col-lg-6">
-					<img src="improve.PNG" alt="Bootstrap" class="img-fluid">
-				<img src="Infodesign.png" alt="Bootstrap" class="img-fluid">
-			</div>		
+	<div class="row padding">
+		<div class="col-lg-6">
+			<h2>Certificate 6: Making User Interface Elements</h2>
+			<p><style> p {text-indent:50px;t}</style>Get familiar with the majority of the center highlights for making connecting with UIs with Trapcode Form, a 3D molecule generator for Adobe After Effects. This fun, venture based course directs you through the procedure for structure an energized UI for an anecdotal, cutting edge facial acknowledgment program. While you construct the venture, you can see the intensity of the visual creator, controls, and presets in real life and gain proficiency with the essential devices and procedures you have to make your own custom UI components without any preparation. Adobe Certified Instructor Chad Perkins—and authority Trapcode Form 4 mentor—tells the best way to make segments, control Form with layer maps, make novel particles with Form sprites, and control liveliness with sound waveforms. In addition, figure out how to utilize 3D documents to make Form shapes.</p>
+            <p><b>Learning Objectives:</b></p>
+            <p>-Using and modifying designer presets</p>
+            <p>-Creating the background</p>
+            <p>-Making components</p>
+            <p>-Using layer maps</p>
+            <p>-Adding elements with sprites</p>
+			<br>
+			<a href="certificates4.php" class="btn btn-primary">Previous Page</a>
+			<a href="ceritificates6.php" class="btn btn-primary">Next Page</a>
 		</div>
+		<div class="col-lg-6">
+				<img src="cert6.JPG" alt="Bootstrap" class="img-fluid">
+			</div>		
 	</div>
-	
+</div>
 
 <hr class="my-4">
-
-
+  
 <!--- Outputs -->
 <div class="container-fluid padding">
 	<div class="row welcome text-center">

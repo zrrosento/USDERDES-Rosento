@@ -13,7 +13,6 @@
 </head>
 <body>
 
-
 <!-- Navigation -->
 <nav class="navbar navbar-expand-md navbar-light bg-light sticky-top">
 	<div class="container-fluid">
@@ -39,9 +38,8 @@
 		<div class="carousel-item active">
 			<img src="background_act.jpg" alt="image of first slider">
 			<div class="carousel-caption">
-				<h1 class="display-2">Activities</h1>
-				<p class="h3 subtitle">A1-A9</p>
-
+				<h1 class="display-2">Certificates</h1>
+				<p class="h3 subtitle">C1-C3</p>
 			</div>
 		</div>
 	</div>
@@ -49,31 +47,28 @@
 
 <!--- Two Column Section -->
 <div class="container-fluid padding">
-		<div class="row padding">
-			<div class="col-lg-6">
-				<h2>Activity 7: Information Design</h2>
-				<p>1. How can we improve this?</P>
-					<p>	I think the improve that can be done on this invitation is that it needs a little colorful design but not too much but rather plain-ish but elegant. Also, it needs a little photo for design or a little picture.
-						</p>
-				<p>2. What could be the objective function?</P>
-					<p></p>	I think the objective for this invitation is to encourage anyone who’s invited to come into the after-dinner party. To let them know it’ll be fun and there will be a lot of food in the party.
-				</p>
-					<p>	3. Create your own design/version of the passage</p>
-			   
-					<a href="activities6.php" class="btn btn-primary">Previous Page</a>
-					<a href="Activities8.php" class="btn btn-primary">Next Page</a>
-			</div>
-			<div class="col-lg-6">
-					<img src="improve.PNG" alt="Bootstrap" class="img-fluid">
-				<img src="Infodesign.png" alt="Bootstrap" class="img-fluid">
-			</div>		
+	<div class="row padding">
+		<div class="col-lg-6">
+			<h2>Certificate 5: Creating an Enterprise Custom User Interface</h2>
+			<p><style> p {text-indent:50px;t}</style>Pretty much every organization that utilizations AutoCAD changes it to suit their work process. Custom UIs (CUIs) take customization to the following level, enabling associations to institutionalize the devices and directions for their clients. This course shows CAD and BIM directors how to arrange endeavor CUIs that can be conveyed to a whole system. Teacher Josh Modglin tells the best way to make another CUI, alter the interface components and controls, and set a principle CUI separated from the endeavor CUI with the goal that clients can make their own alterations.</p>
+            <p><b>Learning Objectives:</b></p>
+            <p>-What is a custom user interface</p>
+            <p>-Partial, main, and enterprise</p>
+            <p>-Creating a new partial CUI</p>
+            <p>-Creating interface controls</p>
+            <p>-Defining main and enterprise CUIs</p>
+			<br>
+			<a href="certificates4.php" class="btn btn-primary">Previous Page</a>
+			<a href="ceritificates6.php" class="btn btn-primary">Next Page</a>
 		</div>
+		<div class="col-lg-6">
+				<img src="cert5.JPG" alt="Bootstrap" class="img-fluid">
+			</div>		
 	</div>
-	
+</div>
 
 <hr class="my-4">
-
-
+  
 <!--- Outputs -->
 <div class="container-fluid padding">
 	<div class="row welcome text-center">

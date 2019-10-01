@@ -26,7 +26,6 @@
 				<li class="nav-item active"><a href="index.php" class="nav-link">Home</a></li>
 				<li class="nav-item"><a href="activities.php" class="nav-link">Activities</a></li>
 				<li class="nav-item"><a href="reflections.php" class="nav-link">Reflections</a></li>
-				<li class="nav-item"><a href="quizzes.php" class="nav-link">Quizzes</a></li>
 				<li class="nav-item"><a href="certificates.php" class="nav-link">Certificates</a></li>
 				<li class="nav-item"><a href="https://www.apc.edu.ph" class="nav-link">About Us</a></li>
 			</ul>
@@ -54,34 +53,34 @@
 		<div class="row padding">
 			<div class="col-lg-6">
                 <h2>Activity 9: 12-Column Grid Design</h2>
-                <p>1.</p>
+                <p>1.12 variations of 4x12 column grid</p>
                 <img src="12a.png" alt="Bootstrap" class="img-fluid">
-                <p>2.</p>
+                <p>2.12 varieties of 4x12 section lattice</p>
                 <img src="12b.png" alt="Bootstrap" class="img-fluid">
-                <p>3.</p>
+                <p>3.12 assortments of 4x12 segment grid</p>
                 <img src="12c.png" alt="Bootstrap" class="img-fluid">
-                <p>4.</p>
+                <p>4.12 arrangements of 4x12 section framework</p>
                 <img src="12g.png" alt="Bootstrap" class="img-fluid">
-                <p>5.</p>
+                <p>5.12 game plans of 4x12 area system</p>
                 <img src="12h.png" alt="Bootstrap" class="img-fluid">
-                <p>6.</p>
+                <p>6.12 courses of action of 4x12 zone framework</p>
                 <img src="12i.png" alt="Bootstrap" class="img-fluid">
 
 					<a href="activities7.php" class="btn btn-primary">Previous Page</a>
 					<a href="index.php" class="btn btn-primary">Home</a>
 			</div>
 			<div class="col-lg-6">
-                <p>7.</p>
+                <p>7.12 game-plans of 4x12 zone system</p>
                 <img src="12j.png" alt="Bootstrap" class="img-fluid">
-                <p>8.</p>
+                <p>8.12 strategies of 4x12 zone framework</p>
                 <img src="12k.png" alt="Bootstrap" class="img-fluid">
-                <p>9.</p>
+                <p>9.12 systems of 4x12 zone structure</p>
                 <img src="12l.png" alt="Bootstrap" class="img-fluid">
-                <p>10.</p>
+                <p>10.12 frameworks of 4x12 zone structure</p>
                 <img src="12d.png" alt="Bootstrap" class="img-fluid">
-                <p>11.</p>
+                <p>12 systems of 4x12 zone structure</p>
                 <img src="12e.png" alt="Bootstrap" class="img-fluid">
-                <p>12.</p>
+                <p>12.12 variations of 4x12 column grid</p>
                 <img src="12f.png" alt="Bootstrap" class="img-fluid">
 
 			</div>		

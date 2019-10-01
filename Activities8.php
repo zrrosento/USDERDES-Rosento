@@ -26,7 +26,6 @@
 				<li class="nav-item active"><a href="index.php" class="nav-link">Home</a></li>
 				<li class="nav-item"><a href="activities.php" class="nav-link">Activities</a></li>
 				<li class="nav-item"><a href="reflections.php" class="nav-link">Reflections</a></li>
-				<li class="nav-item"><a href="quizzes.php" class="nav-link">Quizzes</a></li>
 				<li class="nav-item"><a href="certificates.php" class="nav-link">Certificates</a></li>
 				<li class="nav-item"><a href="https://www.apc.edu.ph" class="nav-link">About Us</a></li>
 			</ul>
@@ -53,19 +52,19 @@
 		<div class="row padding">
 			<div class="col-lg-6">
                 <h2>Activity 8: Grid Layout Design</h2>
-                <p>1.</p>
+                <p>1.12 variations of 4x4 grid</p>
                 <img src="A8_1.png" alt="Bootstrap" class="img-fluid">
-                <p>2.</p>
+                <p>2.12 varieties of 4x4 matrix</p>
                 <img src="A8_3.jpg" alt="Bootstrap" class="img-fluid">
                 
 					<a href="activities7.php" class="btn btn-primary">Previous Page</a>
-					<a href="Activities9.php" class="btn btn-primary">Next Page</a>
+					<a href="activities9.php" class="btn btn-primary">Next Page</a>
 			</div>
 			<div class="col-lg-6">
                 <h2> </h2>
-                <p>3.</p>
+                <p>3.12 variations of 3x3 grid</p>
                 <img src="A8_2.png" alt="Bootstrap" class="img-fluid">
-                <p>4.</p>
+                <p>4.12 varieties of 3x3 lattice</p>
                 <img src="A8_4.jpg" alt="Bootstrap" class="img-fluid">
 			</div>		
 		</div>
